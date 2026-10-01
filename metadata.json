@@ -1,0 +1,6 @@
+{
+  "name": "TankBlitz IO - Online Multiplayer Arena",
+  "description": "Fast-paced real-time online multiplayer tank battle arena with customizable combat chassis, energy shields, bouncing shells, power-ups, and live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
